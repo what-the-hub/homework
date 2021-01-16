@@ -102,7 +102,59 @@ p.c1{
     font-size: 150%;
     text-align: center;
 }
+div.lemon{
+    background-image: url(https://i.stack.imgur.com/vVWyZ.jpg);
+    color: blue;
+    width: 250px%;
+    height: 300px;
+    text-align: center;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    border-top-left-radius:     20em 15em;
+border-top-right-radius:    20em 15em;
+border-bottom-right-radius: 15em 10em;
+border-bottom-left-radius:  15em 10em;
 
-img.ph3{
-    
+    border: blueviolet;
+    border-style: dotted;
+}
+/*
+.p1{
+    padding: 10px;
+    position: relative;
+}
+.p2{
+    padding: 10px;
+    float: right;
+}
+div.p3{
+    padding: 10px;
+}
+*/
+.picchild{
+    position: relative;
+}
+
+.pic{
+    display: inline-block;
+    padding: 1%;
+    position: absolute;
+    width: 30%;
+}
+/*
+.im1{
+    display: block;
+
+
+}
+.im2{
+    display: block;
+    margin:auto;
+
+}
+.im3{
+    display: block;
+
 }
